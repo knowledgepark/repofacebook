@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 this file is update 
-=======
-this file update file [D[D[D[D[Dabc [C[C[D[Dfile
->>>>>>> develop
+
+this file update file abc file
+
